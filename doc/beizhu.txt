@@ -1,0 +1,18 @@
+目前缺少省市地区的相关表,
+需要与pms上门店的信息的表完全一致,
+
+当前系统默认设置为  正常状态1, 非正常状态0 , 所有地方遵循该系统设计()
+删除内容之后进行补充
+
+主页:
+http://localhost:8080/index
+用户名:  admin     密码:  1
+
+热部署:
+ctrl+shift+F9
+
+mybatis crud 接口：
+    http://mp.baomidou.com/guide/crud-interface.html
+mybatis 条件构造器:
+    http://mp.baomidou.com/guide/crud-interface.html
+
